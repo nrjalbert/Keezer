@@ -10,5 +10,6 @@ Raspberry Pi<br>
 2x Bathroom scales<br>
 Ethernet cable<br>
 Soldering iron<br>
+Various jumper wires<br>
 
 Great resource: https://tutorials-raspberrypi.com/digital-raspberry-pi-scale-weight-sensor-hx711/
